@@ -10,3 +10,5 @@ sudo make install
 
 ==========
 new add
+
+=========server add
