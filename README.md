@@ -7,3 +7,6 @@
 make
 
 sudo make install
+
+==========
+new add
