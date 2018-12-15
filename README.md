@@ -1,6 +1,6 @@
-#first title
+# first title
 
-##second title
+## second title
 
 ./configure
 
